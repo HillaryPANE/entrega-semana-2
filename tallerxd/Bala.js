@@ -9,7 +9,6 @@ class Bala{
         this.tam= tam;
     }
 
-
     pintarBala(){
         this.app.fill(200, 0, 0);
         this.app.rectMode(this.app.CENTER);
